@@ -1,0 +1,6 @@
+LIBRARY	"protoMail"
+
+EXPORTS
+	queryPlugInfo
+	pluginLoad
+	pluginUnload
